@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abril_fatface</item>
+        <item>@font/aguafina_script</item>
+        <item>@font/antic</item>
+        <item>@font/armata</item>
+        <item>@font/bad_script</item>
+        <item>@font/baloo_bhai</item>
+        <item>@font/bangers</item>
+        <item>@font/barrio</item>
+        <item>@font/berkshire_swash</item>
+        <item>@font/gloria_hallelujah</item>
+    </array>
+</resources>

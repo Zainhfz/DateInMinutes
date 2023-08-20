@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/Cream"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="35dp"
+        android:fontFamily="@font/baloo_bhai"
+        android:textColor="@color/pink"
+        android:layout_gravity="center"
+
+        android:textAllCaps="true"
+        android:text="Calculate Your"
+        android:textSize="35sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="35dp"
+        android:textColor="@color/navy"
+        android:textAllCaps="true"
+        android:layout_gravity="center"
+        android:fontFamily="@font/baloo_bhai"
+        android:text="Age in "
+        android:textSize="30sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="35dp"
+        android:textColor="@color/Red"
+        android:layout_gravity="center"
+        android:textAllCaps="true"
+        android:fontFamily="@font/baloo_bhai"
+        android:text="  Minutes"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="75dp"
+        android:textAllCaps="true"
+        android:backgroundTint="@color/navy"
+        android:layout_marginRight="75dp"
+        android:text="Select Date " />
+
+    <TextView
+        android:id="@+id/tv_DateShow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:gravity="center"
+        android:text="2/25/2000"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/ss"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:fontFamily="@font/bangers"
+        android:gravity="center"
+        android:text="Selected Date" />
+
+    <TextView
+        android:id="@+id/tv_Minutes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="40dp"
+        android:text="87827"
+        android:textSize="40sp"
+        />
+
+    <TextView
+        android:id="@+id/tt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:fontFamily="@font/gloria_hallelujah"
+        android:gravity="center"
+        android:text="Age in Minutes Till Date" />
+
+
+</LinearLayout>
