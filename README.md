@@ -2,7 +2,7 @@
 
 ## *Zain Ali *
 
-**DateInMinutes** app is a simple Android application that allows users to select a date and calculates the difference in minutes between the selected date and the current date. This project is developed using Kotlin in Android Studio.
+**DateInMinutes** The "Age in Minutes Calculator" app is a handy and interactive Android application designed to calculate and display the age of a person in minutes. With a simple and user-friendly interface, this app provides a quick way to determine the age of an individual based on their birthdate. Whether you're curious about your age in a unique unit of time or simply want to marvel at the passage of time, this app offers a fun and informative experience.
 
 Time spent: **24** hours spent in total
 
