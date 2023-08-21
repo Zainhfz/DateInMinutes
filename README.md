@@ -1,6 +1,6 @@
 # DateInMinutes
 
-## *Zain Ali *
+## *Zain Ali*
 
 **DateInMinutes** The "Age in Minutes Calculator" app is a handy and interactive Android application designed to calculate and display the age of a person in minutes. With a simple and user-friendly interface, this app provides a quick way to determine the age of an individual based on their birthdate. Whether you're curious about your age in a unique unit of time or simply want to marvel at the passage of time, this app offers a fun and informative experience.
 
@@ -23,7 +23,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://giphy.com/gifs/3grBuB98wKMthXSJTv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
