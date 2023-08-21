@@ -23,8 +23,9 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='![gifApp](https://github.com/Zainhfz/DateInMinutes/assets/69580731/12363c0d-8052-45b3-ab98-3ba6cc307cb7)
-' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![gifApp](https://github.com/Zainhfz/DateInMinutes/assets/69580731/12363c0d-8052-45b3-ab98-3ba6cc307cb7)
+****
+<img src='https://imgflip.com/gif/7wf2jp' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
